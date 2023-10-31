@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: __Restful API's & REACT__ 
 - 🌱 I’m currently learning: __Full_Stack_Engineering@Code_Platoon__
 - 💬 Ask me about __Django REST API's,Cloud Engineering (AWS),Docker,Software Dev...__
-- ⚡ Fun fact: I am a brown belt in brazilian jiujitsu
+- ⚡ Fun fact: I am a purple belt in brazilian jiujitsu
 
 <br/>
 
