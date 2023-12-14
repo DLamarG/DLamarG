@@ -1,114 +1,34 @@
-# Hello, I'm Lamar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Demond L Gildon
+=======================================================================================================================================
 
-### Full_Stack_Dev/Software Engineer
+Full Stack Developer
+--------------------
 
-- 🔭 I’m currently working on: __Restful API's & REACT__ 
-- 🌱 I’m currently learning: __Full_Stack_Engineering@Code_Platoon__
-- 💬 Ask me about __Django REST API's,Cloud Engineering (AWS),Docker,Software Dev...__
-- ⚡ Fun fact: I am a purple belt in brazilian jiujitsu
+I am a certified full stack software engineer. I am passionate about learning new technologies and applying them to enhance my software engineering prowess. I do not shy away from a challenge, and I welcome the opportunity to learn something new!
 
-<br/>
+* 🌍  I'm based in Chicago metropolitan area
+* ✉️  You can contact me at [demondg8@gmail.com](mailto:demondg8@gmail.com)
+* 🧠  I'm learning C++
+* ⚡  I am a jiujitsu purple bellt.
 
-
-<table>
-    <tr>
-        <th>My CV</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://DLamarG.github.io/online-resume">📃</a>
-        </td>
-    </tr>
-</table>
+### Skills
 
 
-
-### Contact me:
-
-<a href="https://www.linkedin.com/in/demondgildon/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-
-### Toolset
-
-<table>
-    <tr>
-        <td>Cloud Engineering</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a>
-            <a href=""><img src=""/></a> -->
-        </td>
-    </tr>
-    <tr>
-        <td>SysOps</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bash/bash-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Programming/Backend</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Frontend Dev</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Databases/Datastores</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>IDEs</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
-        </td>
-    </tr>
-</table>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+</p>
 
 
-<br/>
+### Socials
 
-### Support my Work
-<br/>
-<a href="https://www.buymeacoffee.com/dlamarg"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
+<p align="left"> <a href="https://www.github.com/DLamarG" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/demondgildon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### Badges
 
-<br />
+<b>My GitHub Stats</b>
 
-### My GitHub Stats
+<a href="http://www.github.com/DLamarG"><img src="https://github-readme-stats.vercel.app/api?username=DLamarG&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DLamarG's GitHub stats" /></a>
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=DLamarG&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=DLamarG"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=DLamarG&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLamarG&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
+<a href="http://www.github.com/DLamarG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DLamarG&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-
-
-<!--
-**colinbut/colinbut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/DLamarG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLamarG&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
