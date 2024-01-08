@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm full stack software engineer. I am passionate about learning new technologies and applying them to enhance my software engineering prowess. I do not shy away from a challenge, and I welcome the opportunity to learn something new!
+I'm a full stack software engineer. I am passionate about learning new technologies and applying them to enhance my software engineering prowess. I do not shy away from a challenge, and I welcome the opportunity to learn something new!
 
 * 🌍  I'm based in Chicago metropolitan area
 * ✉️  You can contact me at [demondg8@gmail.com](mailto:demondg8@gmail.com)
